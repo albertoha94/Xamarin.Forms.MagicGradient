@@ -50,3 +50,8 @@ modules.order
 Module.symvers
 Mkfile.old
 dkms.conf
+/Xamarin.MagicGradient.Android/bin
+/Xamarin.MagicGradient.Android/obj
+/Xamarin.MagicGradient/bin
+/Xamarin.MagicGradient/obj
+/Xamarin.MagicGradient.Android/Resources/Resource.designer.cs
