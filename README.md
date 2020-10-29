@@ -5,4 +5,4 @@ https://devblogs.microsoft.com/xamarin/magic-gradients-xamarinforms/
 
 | Android  | iOS |
 | ------------- | ------------- |
-| ![alt Android](https://i.imgur.com/Di8jFkn.jpg)  | ![alt iOS](https://i.imgur.com/mFKloQS.png)  |
+| ![alt Android](https://imgur.com/EpxNFZ7)  | ![alt iOS](https://imgur.com/hK0gmne)  |
